@@ -9,4 +9,4 @@ The structure of this project is simillar to date applications like badoo and et
 <img src=https://github.com/TatarinAlba/ChuckNorrisApplication/blob/main/screenshots/screen3.png width="200" height="400">
 ___
 ## Download
-Now this application is avaliable only for android. **[Here]("https://drive.google.com/file/d/1cyFbJj0AEDQA3up_x3ANTf3GT8f3JRdk/view?usp=sharing")** you can find the link of avaliable apk.
+Now this application is avaliable only for android. [Here]("https://drive.google.com/file/d/1cyFbJj0AEDQA3up_x3ANTf3GT8f3JRdk/view?usp=sharing") you can find the link of avaliable apk.
